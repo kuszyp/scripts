@@ -1,0 +1,32 @@
+config:
+  repositories:
+    - url: o4b/commons/registry/api-documentation/cases/resident-cases-registry
+      files:
+        - reference/resident-cases-actions-bundle.yaml
+        - reference/resident-cases-core-bundle.yaml
+      branch: main
+    - url: o4b/commons/registry/api-documentation/c-m-s/c-m-s-object-registry
+      files:
+        - reference/cms-object-actions-bundled.yaml
+        - reference/cms-object-core-bundled.yaml
+      branch: main
+    - url: o4b/commons/registry/api-documentation/configurator/schema-registry
+      files:
+        - reference/schema-node-actions-bundle.yaml
+        - reference/schema-node-core-bundle.yaml
+        - reference/schema-value-actions-bundle.yaml
+        - reference/schema-value-core-bundle.yaml
+      branch: main
+    - url: o4b/commons/registry/api-documentation/configurator/configurator-registry
+      files:
+        - reference/configurator-actions-bundle.yaml
+      branch: main
+    - url: o4b/commons/registry/api-documentation/configurator/configurator-session-registry
+      files:
+        - reference/configurator-session-actions-bundle.yaml
+        - reference/configurator-session-core-bundled.yaml
+      branch: main
+  metatags:
+    name: consolidated-api-name
+    version: "1.0.0"
+    description: Consolidated API definition

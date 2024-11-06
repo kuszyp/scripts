@@ -1,0 +1,32 @@
+de:
+  days:
+    Monday: der Montag
+    Tuesday: der Dienstad
+    Wednesday: der Mittwoch
+    Thursday: der Donnerstag
+    Friday: der Freitag
+    Saturday: der Samstag
+    Sunday: der Sonntag
+en:
+  days:
+    Monday: Monday
+    Tuesday: Tuesday
+    Wednesday: Wednesday
+    Thursday: Thursday
+    Friday: Friday
+    Saturday: Saturday
+    Sunday: Sunday
+pl:
+  months:
+    January: Styczeń
+    February: Luty
+    March: Marzec
+    April: Kwiecień
+    May: Maj
+    June: Czerwiec
+    July: Lipiec
+    August: Sierpień
+    September: Wrzesień
+    October: Październik
+    November: Listopad
+    December: Grudzień
